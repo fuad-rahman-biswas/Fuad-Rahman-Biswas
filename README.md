@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working software engineering at taylors university<br>
+I am currently studying software engineering at taylors university<br>
 
 
 ## 🌐 Socials:
