@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying software engineering at taylors university<br>
+👋 Hi there! I'm Fuad Rahman, a dedicated and enthusiastic software engineering student with a passion for developing innovative and efficient software solutions. Currently honing my skills at Taylors University, I enjoy learning about and working with a variety of technologies to solve complex problems.<br>
 
 
 ## 🌐 Socials:
