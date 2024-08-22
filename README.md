@@ -30,12 +30,12 @@ I'm a passionate Software Engineering student with a love for problem-solving an
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="70" height="70" style="margin: 0 60px;"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70" style="margin: 0 60px;"/>
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="70" height="70" style="margin: 0 60px;"/>
   </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="70" height="70" style="margin: 0 60px;"/>
-  </a>
+   <a href="https://html.com/html/" target="_blank" rel="noreferrer">
+   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="Html" width="70" height="70" style="margin: 0 60px;"/>
+   </a>
 </p>
 
 ### ⚙️ Tools & Apps<br><br>
@@ -49,8 +49,11 @@ I'm a passionate Software Engineering student with a love for problem-solving an
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original-wordmark.svg" alt="Blender" width="70" height="70" style="margin: 0 60px;"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="70" height="70" style="margin: 0 60px;"/>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="70" height="70" style="margin: 0 60px;"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="70" height="70" style="margin: 0 60px;"/>
