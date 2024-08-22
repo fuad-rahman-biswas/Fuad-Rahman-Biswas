@@ -1,35 +1,102 @@
-# 💫 About Me:
-👋 Hi there! I'm Fuad Rahman, a dedicated and enthusiastic software engineering student with a passion for developing innovative and efficient software solutions. Currently honing my skills at Taylors University, I enjoy learning about and working with a variety of technologies to solve complex problems.<br>
+# 👋 Hi, I'm Fuad Rahman Biswas!
+
+### 🌟 About Me
+I'm a passionate Software Engineering student with a love for problem-solving and coding. I thrive on tackling challenges in algorithms, data structures, and innovative tech solutions. Currently studying at Taylor's University, Malaysia, I aim to leverage my skills to contribute meaningfully to the tech industry.
 
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fuad185/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Fuad_1805/) 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@_fuaaad)
+## 🌐 Connect with Me
+<p>
+   <a href="https://linkedin.com/in/fuad185" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+  <a href="https://leetcode.com/fuad_1805" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" alt="LeetCode" width="70" height="70" style="margin: 0 80px;"/>
+  </a>
+  <a href="mailto:fuadrahman185@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" width="70" height="70" style="margin: 0 80px;"/>
+  </a>
+</p>
+
+## 💻 Skills & Tools
+
+### 🗣️ Languages<br><br>
+<p>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="Kotlin" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+</p>
+
+### ⚙️ Tools & Apps<br><br>
+<p>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original-wordmark.svg" alt="Blender" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="Maven" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+  <a href="https://gradle.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original-wordmark.svg" alt="Gradle" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+</p>
+
+### 📱 Tools in Action<br><br>
+<p>
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://img.icons8.com/color/64/000000/intellij-idea.png" alt="IntelliJ IDEA" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+  <a href="https://netbeans.apache.org/">
+    <img src="https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000" alt="NetBeans" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+  <a href="https://www.visualstudio.com/">
+    <img src="https://img.icons8.com/ios/64/000000/visual-studio.png" alt="Visual Studio" width="70" height="70" style="margin: 0 60px;"/>
+  </a>
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fuad-rahman-biswas&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark" alt="Fuad's GitHub Stats" />
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=fuad-rahman-biswas&icon=0&color=0" alt="Visit Count" style="width: 150px; height: auto;" />
+  </a>
+</p>
 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fuad-rahman-biswas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fuad-rahman-biswas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fuad-rahman-biswas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📈 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fuad-rahman-biswas&show_icons=true&locale=en&layout=compact&theme=dark" alt="fuad-rahman-biswas" />
+</p>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=fuad-rahman-biswas&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 Goals
+- **Short-term:** Develop proficiency in Android app development and complete current projects.
+- **Long-term:** Contribute to cutting-edge tech innovations and
