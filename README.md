@@ -15,81 +15,48 @@
 - 🤝 **I’m looking for help with:**  
   Expanding my knowledge in advanced mobile app development and integrating more complex features into my projects.
 
-- 👨‍💻 **Feel free to check out some of my projects on:**  
-  [GitHub](https://github.com/fuad-rahman-biswas)
+- 👨‍💻 **Feel free to check out some of my projects on:  [GitHub](https://github.com/fuad-rahman-biswas)**  
+ 
 
 - 💬 **Ask me about:**  
   Java, HTML, CSS, MySQL, Python, NetBeans, VS Code, Spyder, Android Studio, GitHub, Blender, Arduino.
 
-- 📫 **You can contact me via:**  
-  Email me at [Gmail](mailto:fuadrahman185@gmail.com)  
-or connect with me on [LinkedIn](https://www.linkedin.com/in/fuad185).
+- 📫 **You can contact me via: Email me at [Gmail](mailto:fuadrahman185@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/fuad185).**  
+ 
+  
 
 
 ## 💻 Skills & Tools
 
-### 🗣️ Languages<br><br>
-<p>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="70" height="70" style="margin: 0 80px;"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="Kotlin" width="70" height="70" style="margin: 0 80px;"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="70" height="70" style="margin: 0 80px;"/>
-  </a>
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="70" height="70" style="margin: 0 80px;"/>
-  </a>
-   <a href="https://html.com/html/" target="_blank" rel="noreferrer">
-   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="Html" width="70" height="70" style="margin: 0 80px;"/>
-   </a>
-</p>
 
-### ⚙️ Tools & Apps<br><br>
-<p>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="70" height="70" style="margin: 0 80px;"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="70" height="70" style="margin: 0 80px;"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original-wordmark.svg" alt="Blender" width="70" height="70" style="margin: 0 80px;"/>
-  </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70" style="margin: 0 80px;"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="70" height="70" style="margin: 0 80px;"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="70" height="70" style="margin: 0 80px;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="70" height="70" style="margin: 0 80px;"/>
-  </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="Maven" width="70" height="70" style="margin: 0 80px;"/>
-  </a>
-  <a href="https://gradle.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original-wordmark.svg" alt="Gradle" width="70" height="70" style="margin: 0 80px;"/>
-  </a>
-</p>
+### 🗣️ Languages
 
-### 📱 Tools in Action<br><br>
-<p>
-  <a href="https://www.jetbrains.com/idea/">
-    <img src="https://img.icons8.com/color/64/000000/intellij-idea.png" alt="IntelliJ IDEA" width="70" height="70" style="margin: 0 80px;"/>
-  </a>
-  <a href="https://netbeans.apache.org/">
-    <img src="https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000" alt="NetBeans" width="70" height="70" style="margin: 0 80px;"/>
-  </a>
-  <a href="https://www.visualstudio.com/">
-    <img src="https://img.icons8.com/ios/64/000000/visual-studio.png" alt="Visual Studio" width="70" height="70" style="margin: 0 80px;"/>
-  </a>
-</p>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+### ⚙️ Tools & Apps
+
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+
+### 📱 Tools in Action
+
+![NetBeans](https://img.shields.io/badge/NetBeans-%231B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
 
 ## 📊 GitHub Stats
 <p align="center">
