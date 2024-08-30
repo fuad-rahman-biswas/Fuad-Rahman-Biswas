@@ -80,5 +80,5 @@
 
 
 ## 🎯 Goals
-- **Short-term:** Develop proficiency in Android app development and complete current projects.
-- **Long-term:** Contribute to cutting-edge tech innovations and
+- **Short-term:** Master Android development and complete my current projects.
+- **Long-term:** Innovate in technology and showcase my work effectively.
