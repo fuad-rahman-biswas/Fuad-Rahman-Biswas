@@ -55,11 +55,13 @@ Java • Python • HTML • CSS • MySQL • Android Studio • NetBeans • G
 
 ---
 
+## 📊 GitHub Stats
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=fuad-rahman-biswas&theme=tokyonight)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=fuad-rahman-biswas&theme=tokyonight)
 
-## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fuad-rahman-biswas&show_icons=true&theme=tokyonight)
 
