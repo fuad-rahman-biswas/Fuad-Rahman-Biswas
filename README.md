@@ -70,7 +70,9 @@ A mobile application supporting multiple currencies with a clean and intuitive i
 
 ## 📫 Connect
 
-- Email: **fuadrahman185@gmail.com**
-- LinkedIn: **linkedin.com/in/fuad185**
-- GitHub: **github.com/fuad-rahman-biswas**
+<p>
+  <a href="mailto:fuadrahman185@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/fuad185">LinkedIn</a> •
+  <a href="https://github.com/fuad-rahman-biswas">GitHub</a>
+</p>
 
