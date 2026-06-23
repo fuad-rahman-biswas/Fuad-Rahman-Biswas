@@ -23,13 +23,17 @@ Currently looking for Software Engineering internship opportunities and always i
 ## 🚀 Selected Work
 
 ### AI-Powered Study Assistant
-An intelligent platform designed to help students learn more effectively through AI-assisted features.
+AI-driven learning platform that enhances studying through smart summarization, Q&A support, and personalized learning assistance. Built to reduce information overload and speed up concept understanding.
+
+---
 
 ### Coin Quest
-A 2D platformer built with Godot Engine, focused on gameplay mechanics and level design.
+2D platformer built with Godot Engine, focused on core gameplay systems including movement mechanics, level progression, and interactive gameplay design. Prioritized smooth controls and engaging level structure.
+
+---
 
 ### Android Currency Converter
-A mobile application supporting multiple currencies with a clean and intuitive interface.
+Lightweight Android application built with Java/Kotlin for real-time multi-currency conversion. Features a clean UI, responsive UX, and optimized performance for mobile usage.
 
 ---
 
