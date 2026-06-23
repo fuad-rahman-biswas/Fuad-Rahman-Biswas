@@ -63,16 +63,14 @@ A mobile application supporting multiple currencies with a clean and intuitive i
 
 ## 🏅 Achievements 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fuad-rahman-biswas&theme=darkhub&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fuad-rahman-biswas&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
 
 ## 📫 Connect
 
-<p>
-  <a href="mailto:fuadrahman185@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/fuad185">LinkedIn</a> •
-  <a href="https://github.com/fuad-rahman-biswas">GitHub</a>
-</p>
+- 📧 Email: **fuadrahman185@gmail.com**
+- 💼 LinkedIn: [Fuad Rahman Biswas](https://www.linkedin.com/in/fuad185)
+- 💻 GitHub: [fuad-rahman-biswas](https://github.com/fuad-rahman-biswas)
 
