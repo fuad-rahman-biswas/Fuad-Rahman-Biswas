@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Fuad Rahman Biswas</h1>
 <h3 align="center">Software Engineering Student @ Taylor's University</h3>
 
@@ -126,4 +126,4 @@ A 2D platformer game developed with Godot Engine featuring custom gameplay mecha
 ### 💭 Motto
 
 > "Keep building. Keep learning. Keep shipping."
-```
+
