@@ -1,34 +1,42 @@
 
-# Fuad Rahman Biswas
+<h1 align="center">Fuad Rahman Biswas</h1>
+<p align="center">
+  Software Engineering Student • Taylor's University
+</p>
 
-Software Engineering Student at Taylor's University
+<p align="center">
+  Building software across web, mobile, AI, data engineering, and game development.
+</p>
 
-Final-year Software Engineering student with interests in software development, mobile applications, data engineering, and artificial intelligence.
+---
 
-Currently seeking a Software Engineering internship.
+## 👋 About Me
 
-## About
+I'm a final-year Software Engineering student at Taylor's University with interests in software development, artificial intelligence, data engineering, and mobile applications.
 
-- Expected graduation: April 2027
-- Co-authored two IEEE conference papers (2025)
-- Experience with Java, Python, JavaScript, Kotlin, SQL, and Android development
-- Built projects in desktop, mobile, game development, and big data systems
+Over the past few years I've worked on projects ranging from Android applications and desktop software to big data systems and game development.
 
-## Projects
+Currently looking for Software Engineering internship opportunities and always interested in collaborating on ambitious projects.
+
+---
+
+## 🚀 Selected Work
 
 ### AI-Powered Study Assistant
-An intelligent learning platform designed to improve student productivity and learning outcomes.
+An intelligent platform designed to help students learn more effectively through AI-assisted features.
 
 ### Coin Quest
-A 2D platformer developed using Godot Engine.
+A 2D platformer built with Godot Engine, focused on gameplay mechanics and level design.
 
 ### Big Data Analytics Pipeline
-Data processing pipeline built using Apache Flume, HDFS, and Apache Spark.
+A data processing pipeline using Apache Flume, HDFS, and Spark for large-scale analytics.
 
 ### Android Currency Converter
-Mobile application supporting multi-currency conversion.
+A mobile application supporting multiple currencies with a clean and intuitive interface.
 
-## Publications
+---
+
+## 📚 Publications
 
 **IEEE Conference Paper (2025)**  
 Evaluation of OCR Tools for Bangla Text Recognition
@@ -36,16 +44,35 @@ Evaluation of OCR Tools for Bangla Text Recognition
 **IEEE Conference Paper (2025)**  
 Real-Time GPS and Public Transportation Tracking Architecture
 
-## Technologies
+---
 
-Java · Python · JavaScript · Kotlin · SQL · Android Studio · Node.js · Git · MySQL · Godot
+## 🛠 Technologies
 
-## GitHub Statistics
+**Languages**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuad-rahman-biswas&show_icons=true)
+Java • Python • JavaScript • Kotlin • C/C++ • SQL
 
-## Contact
+**Tools & Platforms**
 
-- Email: fuadrahman185@gmail.com
-- LinkedIn: linkedin.com/in/fuad185
+Android Studio • Node.js • MySQL • Git • Godot • Figma • Arduino
 
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fuad-rahman-biswas&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuad-rahman-biswas&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect
+
+- Email: **fuadrahman185@gmail.com**
+- LinkedIn: **linkedin.com/in/fuad185**
+- GitHub: **github.com/fuad-rahman-biswas**
+
+---
+
+> Software engineering isn't just writing code—it's building solutions that people actually use.
