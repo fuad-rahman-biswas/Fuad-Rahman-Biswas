@@ -14,7 +14,7 @@
 
 I'm a final-year Software Engineering student at Taylor's University with interests in software development, artificial intelligence, data engineering, and mobile applications.
 
-Over the past few years I've worked on projects ranging from Android applications and desktop software to big data systems and game development.
+Over the past few years I've worked on projects ranging from Android applications and desktop software to game development.
 
 Currently looking for Software Engineering internship opportunities and always interested in collaborating on ambitious projects.
 
@@ -28,42 +28,45 @@ An intelligent platform designed to help students learn more effectively through
 ### Coin Quest
 A 2D platformer built with Godot Engine, focused on gameplay mechanics and level design.
 
-### Big Data Analytics Pipeline
-A data processing pipeline using Apache Flume, HDFS, and Spark for large-scale analytics.
-
 ### Android Currency Converter
 A mobile application supporting multiple currencies with a clean and intuitive interface.
 
 ---
 
-## 📚 Publications
+## 🛠️ Tech Stack 
+### Languages 
+<p> 
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,javascript,cpp,c,html,css" /> 
+</p> 
 
-**IEEE Conference Paper (2025)**  
-Evaluation of OCR Tools for Bangla Text Recognition
-
-**IEEE Conference Paper (2025)**  
-Real-Time GPS and Public Transportation Tracking Architecture
-
----
-
-## 🛠 Technologies
-
-**Languages**
-
-Java • Python • JavaScript • Kotlin • C/C++ • SQL
-
-**Tools & Platforms**
-
-Android Studio • Node.js • MySQL • Git • Godot • Figma • Arduino
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fuad-rahman-biswas&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuad-rahman-biswas&layout=compact&hide_border=true" />
+### Frameworks & Tools
+<p> 
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,androidstudio,git,github,figma,arduino,blender" /> 
 </p>
+
+### Currently Learning 
+<p> 
+  <img src="https://skillicons.dev/icons?i=godot" /> 
+</p>
+
+---
+
+## 📈 GitHub Analytics 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=fuad-rahman-biswas&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuad-rahman-biswas&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p> 
+  <p align="center"> 
+    <img src="https://streak-stats.demolab.com?user=fuad-rahman-biswas&theme=tokyonight&hide_border=true"/> 
+  </p> 
+
+--- 
+
+## 🏅 Achievements 
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=fuad-rahman-biswas&theme=tokyonight&no-frame=true&margin-w=10&row=1" /> 
+</p> 
+
+---
 
 ---
 
@@ -73,6 +76,3 @@ Android Studio • Node.js • MySQL • Git • Godot • Figma • Arduino
 - LinkedIn: **linkedin.com/in/fuad185**
 - GitHub: **github.com/fuad-rahman-biswas**
 
----
-
-> Software engineering isn't just writing code—it's building solutions that people actually use.
