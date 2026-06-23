@@ -22,10 +22,12 @@ Currently looking for Software Engineering internship opportunities and always i
 
 ## 🚀 Selected Work
 
-### AI-Powered Study Assistant
-AI-driven learning platform that enhances studying through smart summarization, Q&A support, and personalized learning assistance. Built to reduce information overload and improve learning efficiency.
+---
 
-**Tech Stack**
+### 🧠 AI-Powered Study Assistant  
+AI-driven learning platform that enhances studying through smart summarization, Q&A support, and personalized learning assistance. Designed to reduce information overload and improve learning efficiency.
+
+**Tech Stack**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,20 +35,20 @@ AI-driven learning platform that enhances studying through smart summarization, 
 
 ---
 
-### Coin Quest
-2D platformer built with Godot Engine, focused on gameplay mechanics, physics-based movement, and level design structure.
+### 🎮 Coin Quest  
+2D platformer built with Godot Engine, focused on gameplay mechanics, physics-based movement, and level design systems.
 
-**Tech Stack**
-![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+**Tech Stack**  
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-3B82F6?style=for-the-badge)
-![Game Development](https://img.shields.io/badge/Game_Dev-FF6F00?style=for-the-badge)
+![Game Dev](https://img.shields.io/badge/Game_Development-FF6F00?style=for-the-badge)
 
 ---
 
-### Android Currency Converter
-Lightweight Android application for real-time multi-currency conversion with a clean UI and smooth user experience.
+### 📱 Android Currency Converter  
+Lightweight Android application for real-time multi-currency conversion with a clean UI and smooth UX experience.
 
-**Tech Stack**
+**Tech Stack**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
