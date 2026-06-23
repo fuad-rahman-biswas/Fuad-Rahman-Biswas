@@ -64,7 +64,7 @@ A mobile application supporting multiple currencies with a clean and intuitive i
 ## 🏅 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fuad-rahman-biswas&theme=flat&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuad-rahman-biswas&theme=tokyonight" />
 </p>
 
 ---
