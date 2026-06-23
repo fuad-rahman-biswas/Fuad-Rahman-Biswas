@@ -68,8 +68,6 @@ A mobile application supporting multiple currencies with a clean and intuitive i
 
 ---
 
----
-
 ## 📫 Connect
 
 - Email: **fuadrahman185@gmail.com**
